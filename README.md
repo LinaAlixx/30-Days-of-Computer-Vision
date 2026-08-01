@@ -58,4 +58,4 @@ Click on any day to view the source code, explanations, and visual outputs for t
 | **30** | **Capstone Final:** GitHub Release & Demo | [🔗 Go to Day 30](./Day_30) | ⏳ Upcoming |
 
 ---
-*Follow my daily updates on LinkedIn/Twitter!*
+*Follow me on LinkedIn/X!*
