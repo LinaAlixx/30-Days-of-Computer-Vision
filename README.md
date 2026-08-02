@@ -15,7 +15,7 @@ Click on any day to view the source code, explanations, and visual outputs for t
 | Day | Topic | Link | Status |
 | :---: | :--- | :--- | :---: |
 | **01** | Read, Display, and Write Images & Videos | [🔗 Go to Day 01](./Day_01) | ✅ Done |
-| **02** | Image Transformations (Resize, Crop, Rotate) | [🔗 Go to Day 02](./Day_02) | ⏳ Upcoming |
+| **02** | Image Transformations (Resize, Crop, Rotate) | [🔗 Go to Day 02](./Day_02) | ✅ Done |
 | **03** | Image Filtering and Blurring (Gaussian, Median) | [🔗 Go to Day 03](./Day_03) | ⏳ Upcoming |
 | **04** | Color Spaces (RGB, HSV) and Color Masking | [🔗 Go to Day 04](./Day_04) | ⏳ Upcoming |
 | **05** | Edge Detection (Canny, Sobel) | [🔗 Go to Day 05](./Day_05) | ⏳ Upcoming |
