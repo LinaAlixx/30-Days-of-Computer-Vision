@@ -51,7 +51,8 @@ The video is displayed at a normal speed using cv2.waitKey(40).
 > [!NOTE]
 > Make sure to replace "videu path" with the actual path of the video file on your computer (e.g., "C:/videos/my_video.mp4").
 
-##🚀 How to Run
+## 🚀 How to Run
+---
 - Create a new Python file (e.g., main.py).
 
 - Copy and paste the specific code block you want to test into the file.
