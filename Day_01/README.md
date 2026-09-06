@@ -11,18 +11,19 @@ Before running the scripts, make sure you have the `opencv-python` library insta
 ```bash
 pip install opencv-python
 ```
+---
 
-##📂 Project Contents
+## 📂 Project Contents
 The project includes three main examples:
 
 #1. Read, Display, and Save Images
 This script performs the following tasks:
 
-Read Image: Loads an image from a specified path using cv2.imread.
+- Read Image: Loads an image from a specified path using cv2.imread.
 
-Save Image: Creates a copy of the image and saves it to a new directory using cv2.imwrite.
+- Save Image: Creates a copy of the image and saves it to a new directory using cv2.imwrite.
 
-Display Image: Opens a window to show the image using cv2.imshow, keeping it open until the user presses any key.
+- Display Image: Opens a window to show the image using cv2.imshow, keeping it open until the user presses any key.
 
 Note: Make sure to update the image paths (img_path and the save location) to match the actual directories on your machine.
 
@@ -43,10 +44,13 @@ The video is displayed at a normal speed using cv2.waitKey(40).
 Note: Make sure to replace "videu path" with the actual path of the video file on your computer (e.g., "C:/videos/my_video.mp4").
 
 ##🚀 How to Run
-Create a new Python file (e.g., main.py).
+- Create a new Python file (e.g., main.py).
 
-Copy and paste the specific code block you want to test into the file.
+- Copy and paste the specific code block you want to test into the file.
 
-Verify and update the file paths (for images and videos) inside the code.
+- Verify and update the file paths (for images and videos) inside the code.
 
-Run the script using your IDE
+- Run the script using your IDE or via the terminal:
+```bash
+python main.py
+```
