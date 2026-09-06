@@ -47,8 +47,10 @@ Opens multiple windows simultaneously to display the results side-by-side:
 - Cropped Image
 <img width="647" height="400" alt="Screenshot 2026-08-02 221619" src="https://github.com/user-attachments/assets/04f8b2ae-deef-4cca-969c-3429c4609ead" />
 
+
 - Rotated Image
-  <img width="774" height="399" alt="Screenshot 2026-08-02 222544" src="https://github.com/user-attachments/assets/98d8d038-dd88-4774-b253-9be59f28c5c9" />
+  
+<img width="774" height="399" alt="Screenshot 2026-08-02 222544" src="https://github.com/user-attachments/assets/98d8d038-dd88-4774-b253-9be59f28c5c9" />
 
 
 Waits for the user to press any key before safely closing all windows.
@@ -60,7 +62,7 @@ Waits for the user to press any key before safely closing all windows.
 
 - Run the script from your terminal:
 
-'''Bash
+```Bash
 python transformations.py
-'''
+```
 - Press any key on your keyboard while the image windows are in focus to close them and exit the program.
